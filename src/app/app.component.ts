@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
-import { environment } from 'src/enviroments/enviroment.prod';
+import { environment } from 'src/environments/environment.prod';
 
 @Component({
   selector: 'app-root',
